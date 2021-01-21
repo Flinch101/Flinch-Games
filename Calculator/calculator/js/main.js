@@ -7,6 +7,8 @@
 ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝╚═╝░░╚══╝
 */
 
+document.body.style.zoom = "125%";
+
 var operandoa;
 var operandob;
 var operacion;
