@@ -2,6 +2,10 @@ body{
     background: url("https://4.bp.blogspot.com/-HOeMTJP_M-Y/VOzJ9ihSrZI/AAAAAAAAHHE/OCc9b6zf2V4/s1600/fondo1.gif");
     background-size: 100% 100%;
     background-attachment: fixed;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; 
 }
 
 .titleGame {
