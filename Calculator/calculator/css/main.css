@@ -1,0 +1,74 @@
+/* <-----------General Styles-----------> */
+
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    margin-top: auto;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://raw.githubusercontent.com/RogerNatividad/Crear-un-Formulario-de-Registro-con-HTML-y-CSS-/master/fondo.jpg");
+}
+
+/* <-----------Div-----------> */
+
+.containerMain{
+    background-color: gray;
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 7px 13px 37px #000;
+    height: 290px;
+
+    margin: auto;
+    display: block;
+    margin-top: 100px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.containerMain button{
+    color: black;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+    margin-left: 1px;
+    align-items: center;
+    border-color:gray;
+    outline: none;
+}
+
+#boton0{
+    width: 72.5%;
+}
+
+.containerMain button:hover{
+    background-color: yellow;
+}
+
+.containerResult{
+    height: 60px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    overflow-y: hidden;
+    margin-bottom: 10px;
+    font-size: 20px;
+    background-color: white;
+}
+
+/* <-----------Form-----------> */
+
+/* <-----------Button-----------> */
+
+
+/* <-----------Input-----------> */
+
+/* <-----------Image-----------> */
+
+/* <-----------Video-----------> */
+
+/* <-----------Audio-----------> */

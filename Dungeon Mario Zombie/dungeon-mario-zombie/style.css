@@ -1,0 +1,226 @@
+body{
+    background: url("https://4.bp.blogspot.com/-HOeMTJP_M-Y/VOzJ9ihSrZI/AAAAAAAAHHE/OCc9b6zf2V4/s1600/fondo1.gif");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.titleGame {
+    text-align: center;
+    font-family: 'Yusei Magic', sans-serif;
+    background-color: red;
+    width: 500px;
+    padding: 0;
+    margin: auto;
+    display: block;
+    border-radius: 30px;
+    border-color: grey;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.container { 
+    width: 850px; 
+    height: 550px; 
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#img{
+    width: 850px; 
+    height: 550px; 
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.buttonPlay {
+    cursor: pointer;
+    color: red;
+    font-weight: 100;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    outline: none;
+    left: 0;
+    right: 0;
+    margin-top: 500px;
+    border-radius: 30px;
+}
+
+
+#buttonPlayA{
+    cursor: pointer;
+    color: red;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    outline: none;
+    left: 0;
+    right: 0;
+    margin-top: 500px;
+    border-radius: 30px;   
+}
+
+#buttonKeep{
+    cursor: pointer;
+    color: red;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    outline: none;
+    left: 0;
+    right: 0;
+    margin-top: 500px;
+    border-radius: 30px;   
+}
+
+#buttonOtherL{
+    cursor: pointer;
+    color: red;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    outline: none;
+    left: 0;
+    right: 0;
+    margin-top: 550px;
+    border-radius: 30px;  
+}
+
+#buttonLevel1{
+    cursor: pointer;
+    color: red;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    outline: none;
+    left: 0;
+    right: 0;
+    margin-top: 500px;
+    border-radius: 30px; 
+}
+
+#buttonLevel2{
+    cursor: pointer;
+    color: red;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    border: 2px solid red; 
+    padding: 0;
+    margin: auto;
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    outline: none;
+    left: 0;
+    right: 0;
+    margin-top: 550px;
+    border-radius: 30px; 
+}
+
+#buttonLevel1:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+#buttonKeep:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+#buttonLevel2:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+#buttonOtherL:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+#buttonPlayA:hover{
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+.buttonPlay:hover {
+    background-color: red;
+    color: white;
+    border-color: white;
+}
+
+
+#imgPrincipal {
+    width: 850px;
+    height: 550px;
+    /* position: absolute; */
+}
+
+#imgDown {
+    padding: 0;
+    margin: auto;
+    display: block;
+    border: 2px solid red; 
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top: 10px;
+}
