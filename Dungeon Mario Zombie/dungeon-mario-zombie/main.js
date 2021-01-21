@@ -1,4 +1,3 @@
-
 // Canvas
 var canvas;
 var ctx;
@@ -498,6 +497,7 @@ var jugador = function(x,y){
 }
 
 function init(){
+    document.body.style.zoom = "90%";
     ON = false;
     protagonista = new jugador(1,1);
 
@@ -734,5 +734,6 @@ function interval(){
         }
     }},1000/fps);
 }   
+
 
 
